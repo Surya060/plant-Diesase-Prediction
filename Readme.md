@@ -12,4 +12,4 @@ Take necessary actions 👍
 
 ## Disease Prediction
 
-![image](https://user-images.githubusercontent.
+![image](https://user-images.githubusercontent.com/96369223/207110333-46cdf258-7ee8-4ccb-902a-63891785b42e.png) 
